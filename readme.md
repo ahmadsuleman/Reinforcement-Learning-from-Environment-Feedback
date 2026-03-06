@@ -1,4 +1,4 @@
-# LLM-Guided Waypoint Decomposition via Reinforcement Learning from Environment Feedback for Shape-Following with Imperfect DDPG Controllers
+# Embodied Language-Guided Waypoint Planning for Shape-Following Navigation via Reinforcement Learning from Environment Feedback
 ## Abstract
 Precise shape-following with a Deep Deterministic Policy Gradient (DDPG) controller is challenging when the policy is imperfectly trained. Errors such as overshoot, drift, and corner-cutting accumulate across waypoints, causing the robot to deviate from the target shape. 
 
